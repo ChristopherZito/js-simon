@@ -23,7 +23,7 @@ console.log("i numeri generati sono: ",numeri);
 
 setTimeout(() => {
     cont.style.display = "none"
-}, 800)
+}, 28000)
 
 //delay di 30 secondi
 setTimeout(() => {
@@ -46,4 +46,4 @@ setTimeout(() => {
     cont.style.display = "block";
     numPag.innerHTML = risult ,",";
     console.log("i numeri che combaciano sono: ",risult);
-}, 1000)
+}, 30000)
